@@ -248,6 +248,9 @@ Lab2_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Lab2_SOURCE_DIR:STATIC=C:/Users/50242/Documents/Universidad/TercerAño/GraficasComputadora/Lab2-ConwaysGameOfLife/Lab2
 
+//The directory containing a CMake configuration file for SDL2.
+SDL2_DIR:PATH=SDL2_DIR-NOTFOUND
+
 
 ########################
 # INTERNAL cache entries
